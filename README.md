@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="levi.png" width="180" alt="Levi Ackermann artwork">
+  <img src="levi.jpg" width="180" alt="Levi Ackermann artwork">
   <br/>
   <em>“Dedicate your hearts!” — Erwin Smith</em>
 </p>
