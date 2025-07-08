@@ -2,7 +2,7 @@
 <!--  Personal Banner → swap for a custom GIF/JPG (600 × 120 works nicely)        -->
 <!-- ────────────────────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="/assets/banner.gif" alt="banner that says Kartik Manchanda – full‑stack developer" />
+  <img src="banner.gif" alt="banner that says Kartik Manchanda – full‑stack developer" />
 </p>
 
 <h1 align="center">
@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="/assets/levi.png" width="180" alt="Levi Ackermann artwork">
+  <img src="/levi.png" width="180" alt="Levi Ackermann artwork">
   <br/>
   <em>“Dedicate your hearts!” — Erwin Smith</em>
 </p>
