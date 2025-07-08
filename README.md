@@ -2,7 +2,7 @@
 <!--  Personal Banner → swap for a custom GIF/JPG (600 × 120 works nicely)        -->
 <!-- ────────────────────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="banner.gif" alt="banner that says Kartik Manchanda" width="800" height="300" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" />
+  <img src="banner.gif" alt="banner that says Kartik Manchanda" width="800" height="200" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">
@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="/levi.png" width="180" alt="Levi Ackermann artwork">
+  <img src="levi.png" width="180" alt="Levi Ackermann artwork">
   <br/>
   <em>“Dedicate your hearts!” — Erwin Smith</em>
 </p>
